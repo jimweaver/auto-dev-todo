@@ -2,6 +2,12 @@
 
 A local-first Todo list built with Next.js 14, TypeScript, and Tailwind CSS. Todos persist in the browser via `localStorage`.
 
+## 🚀 Live Demo
+
+**Try it now:** https://proj6b5282c2.vercel.app
+
+![Todo App Screenshot](./screenshot.png)
+
 ## Features
 - Create, toggle, and delete todos
 - Filter views: All / Active / Completed
